@@ -1,46 +1,38 @@
-Modified MIT License with Anti-Abuse Provisions
-
+MODUVO MONACO  
 Copyright (c) 2025 MODUVO
 
-The right to sublicense is explicitly LIMITED and does not grant the right to:
-1. Remove or modify MODUVO attribution requirements
-2. Grant rights exceeding this license
-3. Circumvent DMCA takedown authority
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU Affero General Public License as  
+published by the Free Software Foundation, either version 3 of the  
+License, or (at your option) any later version.
 
-All sublicenses MUST:
-1. Include this complete license text
-2. Maintain all attribution requirements
-3. Acknowledge MODUVO's superior DMCA rights
+This program is distributed in the hope that it will be useful,  
+but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  
+GNU Affero General Public License for more details.
 
-MODUVO retains the right to:
-1. Issue DMCA takedowns against ANY instance of this software
-2. Revoke sublicensing rights upon violation
-3. Pursue legal action against systematic abuse
+You should have received a copy of the GNU Affero General Public License  
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Permission is hereby granted to use, copy, modify, merge, publish, distribute, sublicense, 
-and/or sell copies of the Software, subject to the following conditions:
+### Additional Terms (per AGPL Section 7):
 
-1. The above copyright notice and attribution to MODUVO as the original creator must be 
-   included in all copies or substantial portions of the Software, even if rebranded.
+As allowed by Section 7 of the GNU AGPL, the following additional terms apply:
 
-2. Rebranding is permitted, but must include the text "Based on MODUVO MONACO" 
-   in a visible location within the application and documentation.
+1. **Attribution Requirements**  
+   a. Any public use or redistribution must retain the above copyright notice.  
+   b. You must include visible attribution in the UI or documentation:  
+      “Based on MODUVO MONACO”  
+   c. Any commercial use must credit MODUVO as the original creator.
 
-3. Generated keys may be reformatted, but must include "MODUVO" or "Based on MODUVO" 
-   in their metadata or documentation.
+3. **No Misrepresentation**  
+   You must not misrepresent the origin of the software. If you rebrand it,  
+   you must indicate that your work is a modification of MODUVO MONACO.
 
-4. Any commercial use must provide clear attribution to MODUVO.
+4. **No Trademark Rights Granted**  
+   Nothing in this license grants the right to use the MODUVO name or brand  
+   for endorsement or promotion without separate permission.
 
-5. Failure to comply with these attribution requirements will result in:
-   a) Automatic termination of this license
-   b) Immediate DMCA takedown notices being filed
-   c) Legal action for copyright infringement
+---
 
-6. By using this software, you acknowledge that MODUVO reserves the right to:
-   a) Monitor usage for compliance
-   b) Issue DMCA takedown notices without prior warning
-   c) Seek damages for willful infringement
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
-For DMCA notices contact: setnamecallmethod on Discord
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.  
+For compliance inquiries or attribution questions, contact: `setnamecallmethod` on Discord.
